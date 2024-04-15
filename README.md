@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Buat file .env
 
 touch .env
